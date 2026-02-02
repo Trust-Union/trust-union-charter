@@ -70,7 +70,7 @@ We explicitly eliminate particular interests by design:
 
 
 ## Repo Structure of Trust Union — Charter
-/charter/               # Neutral Zone, Principles, Governance (kurz)
+/charter/               # Neutral Zone, Principles, Governance (summary)
 /patterns/              # Requirement Patterns (agnostisch)
 /patterns/acceptance/   # Acceptance-Criteria Patterns
 /patterns/evidence/     # Verification/Evidence Patterns
