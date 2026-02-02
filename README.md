@@ -71,7 +71,7 @@ We explicitly eliminate particular interests by design:
 
 ## Repo Structure of Trust Union — Charter
 /charter/               # Neutral Zone, Principles, Governance (summary)
-/patterns/              # Requirement Patterns (agnostisch)
+/patterns/              # Requirement Patterns (agnostic)
 /patterns/acceptance/   # Acceptance-Criteria Patterns
 /patterns/evidence/     # Verification/Evidence Patterns
 /templates/             # Issue/PR Templates
