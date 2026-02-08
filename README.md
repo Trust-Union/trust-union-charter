@@ -70,11 +70,13 @@ We explicitly eliminate particular interests by design:
 
 
 ## Repo Structure of Trust Union — Charter
-/charter/               # Neutral Zone, Principles, Governance (summary)
+```text
+/charter/               # Trust Union: Neutral Zone, Principles, Governance (summary)
 /patterns/              # Requirement Patterns (agnostic)
 /patterns/acceptance/   # Acceptance-Criteria Patterns
 /patterns/evidence/     # Verification/Evidence Patterns
 /templates/             # Issue/PR Templates
+```
 
 ## Next Steps
 1. Define initial terminology & glossary.
