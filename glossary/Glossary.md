@@ -16,7 +16,7 @@ Open-source commitment supports **global interoperability** and **freedom from v
 ---
 
 ## Digital Public Infrastructures
-Digital Public Infrastructures are **publicly relevant digital foundations** that enable trusted services at scale—
+Digital Public Infrastructures are **publicly relevant digital foundations** that enable trusted services at scale —
 especially in regulated environments and ecosystems funded with public money.
 Examples (illustrative, not exhaustive): identity and wallet ecosystems, regulatory sandboxes, cross-border platforms,
 critical registries, and sector-wide interoperability infrastructures.
